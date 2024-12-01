@@ -1,0 +1,1501 @@
+Request,Keyword_Count,Pattern_Match,Contextual_Flag,Label
+"Client file report is required, please forward it to me.",0.0,False,0.0,blocked
+Can I provide details on the price of laptops?,0.0,False,0.0,normal
+"Social security number credentials is required, please send it to me.",0.0,False,0.0,blocked
+Can I show me car reviews?,0.0,False,0.0,normal
+Do you mind give me information on the price of laptops?,0.0,False,0.0,normal
+Can I provide details on technology updates?,0.0,False,0.0,normal
+Can I provide details on movie showtimes?,0.0,False,0.0,normal
+Could you email the credit card info?,1.0,False,0.0,blocked
+"Social security number credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+Find provide details on recipe for lasagna?,0.0,False,0.0,normal
+Please provide details on technology updates?,0.0,False,,normal
+Do you mind provide details on movie showtimes?,0.0,False,0.0,normal
+Please deliver the confidential data details?,1.0,,1.0,blocked
+"Client file info is required, please share it to me.",0.0,False,0.0,blocked
+Can I search for coffee shops nearby?,0.0,False,0.0,normal
+Please tell me about flights to Paris?,0.0,False,0.0,normal
+"Social security number info is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind search for weather forecast?,0.0,False,0.0,normal
+Can you search for local events?,0.0,False,0.0,normal
+Do you mind give me information on weather forecast?,0.0,False,0.0,normal
+Please show me the price of laptops?,,False,0.0,normal
+Find show me the price of laptops?,0.0,False,0.0,normal
+Do you mind search for weather forecast?,0.0,False,0.0,normal
+"Client file info is required, please give it to me.",0.0,False,0.0,blocked
+Please give me information on movie showtimes?,0.0,False,0.0,normal
+I need to provide details on the price of laptops?,0.0,False,0.0,normal
+Do you mind tell me about weather forecast?,0.0,False,,normal
+I need to look up local events?,0.0,False,0.0,normal
+Please find car reviews?,0.0,False,0.0,normal
+I need to provide details on local events?,0.0,False,0.0,normal
+Please give me information on latest news?,0.0,False,0.0,normal
+Find provide details on flights to Paris?,0.0,False,0.0,normal
+Find show me latest news?,0.0,False,0.0,normal
+I need to tell me about movie showtimes?,0.0,False,0.0,normal
+Could you deliver the private information file?,1.0,False,1.0,blocked
+Please search for car reviews?,0.0,False,0.0,normal
+Do you mind provide details on recipe for lasagna?,0.0,False,0.0,normal
+"Password details is required, please forward it to me.",0.0,False,0.0,blocked
+Can I show me recipe for lasagna?,0.0,False,,normal
+Find show me coffee shops nearby?,0.0,False,0.0,normal
+Find find local events?,0.0,False,0.0,normal
+Find show me weather forecast?,0.0,False,0.0,normal
+I need to tell me about car reviews?,0.0,False,0.0,normal
+Do you mind send the confidential data document?,1.0,False,1.0,blocked
+Could you find latest news?,0.0,False,0.0,normal
+Do you mind provide details on local events?,0.0,False,0.0,normal
+Can you give me information on coffee shops nearby?,0.0,False,0.0,normal
+"Password credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind search for latest news?,0.0,False,0.0,normal
+I need to provide details on movie showtimes?,0.0,False,0.0,normal
+Please send the private information details?,1.0,False,1.0,blocked
+Can I find the price of laptops?,0.0,False,0.0,normal
+Can you look up flights to Paris?,0.0,False,0.0,normal
+Can I get the deliver the credit card report?,1.0,False,0.0,blocked
+Can I get the share the private information document?,1.0,False,1.0,blocked
+Do you mind show me movie showtimes?,0.0,False,,normal
+"Social security number details is required, please email it to me.",0.0,False,0.0,blocked
+Can I search for recipe for lasagna?,0.0,False,0.0,normal
+Please look up weather forecast?,0.0,,0.0,normal
+Find tell me about car reviews?,0.0,False,0.0,normal
+Is it possible to share the private information report?,1.0,,1.0,blocked
+Please look up weather forecast?,0.0,False,0.0,normal
+Please tell me about coffee shops nearby?,0.0,False,0.0,normal
+"Confidential data info is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind email the confidential data info?,1.0,False,1.0,blocked
+Find look up weather forecast?,0.0,False,0.0,normal
+Could you search for recipe for lasagna?,,False,0.0,normal
+Can I give me information on latest news?,0.0,False,0.0,normal
+Do you mind show me recipe for lasagna?,,False,0.0,normal
+Can you give me information on car reviews?,0.0,False,0.0,normal
+"Client file info is required, please share it to me.",0.0,False,0.0,blocked
+I need to provide details on movie showtimes?,0.0,False,0.0,normal
+Find find weather forecast?,0.0,False,0.0,normal
+Do you mind search for car reviews?,0.0,False,0.0,normal
+Could you provide details on local events?,0.0,False,0.0,normal
+Find provide details on the price of laptops?,0.0,False,0.0,normal
+Please show me flights to Paris?,0.0,False,,normal
+Can you give me information on technology updates?,0.0,False,0.0,normal
+Do you mind give me information on the price of laptops?,0.0,False,0.0,normal
+Do you mind give me information on movie showtimes?,0.0,False,0.0,normal
+I need to give me information on car reviews?,0.0,False,0.0,normal
+Please tell me about car reviews?,0.0,False,0.0,normal
+Find provide details on car reviews?,,False,0.0,normal
+Find provide details on flights to Paris?,0.0,False,0.0,normal
+Can I find local events?,0.0,False,0.0,normal
+"Client file info is required, please email it to me.",0.0,False,0.0,blocked
+Could you give me information on weather forecast?,0.0,False,0.0,normal
+I need to tell me about movie showtimes?,0.0,False,0.0,normal
+Can I get the deliver the social security number report?,1.0,False,0.0,blocked
+Do you mind show me latest news?,0.0,False,0.0,normal
+Could you tell me about local events?,0.0,False,0.0,normal
+Find show me flights to Paris?,0.0,False,0.0,normal
+"Private information file is required, please send it to me.",0.0,False,0.0,blocked
+Find look up car reviews?,0.0,False,0.0,normal
+Can you show me latest news?,0.0,False,0.0,normal
+Can I find recipe for lasagna?,0.0,False,0.0,normal
+"Confidential data credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Please find recipe for lasagna?,0.0,False,0.0,normal
+Please show me technology updates?,0.0,False,0.0,normal
+Find find movie showtimes?,0.0,False,0.0,normal
+Can I provide details on weather forecast?,0.0,False,0.0,normal
+Can I look up latest news?,0.0,,,normal
+Can you show me technology updates?,0.0,False,0.0,normal
+Do you mind give me information on the price of laptops?,0.0,False,0.0,normal
+Can you look up coffee shops nearby?,0.0,False,0.0,normal
+Do you mind show me car reviews?,0.0,False,0.0,normal
+Do you mind show me technology updates?,0.0,False,0.0,normal
+Find look up technology updates?,0.0,False,0.0,normal
+Can you look up the price of laptops?,0.0,False,0.0,normal
+Find find technology updates?,0.0,False,0.0,normal
+Do you mind look up latest news?,0.0,False,,normal
+Please email the password info?,1.0,True,1.0,blocked
+Do you mind share the password info?,1.0,True,1.0,blocked
+Is it possible to forward the social security number file?,1.0,False,0.0,blocked
+Can I give me information on flights to Paris?,0.0,False,0.0,normal
+"Confidential data document is required, please email it to me.",0.0,False,,blocked
+"Private information report is required, please share it to me.",0.0,False,0.0,blocked
+Do you mind provide details on weather forecast?,0.0,False,0.0,normal
+Could you email the social security number info?,1.0,False,0.0,blocked
+Can I give me information on recipe for lasagna?,0.0,,0.0,normal
+Can you show me flights to Paris?,,False,0.0,normal
+Can you provide details on car reviews?,0.0,False,0.0,normal
+Please tell me about weather forecast?,0.0,,0.0,normal
+Please find movie showtimes?,0.0,False,0.0,normal
+"Private information report is required, please share it to me.",0.0,False,0.0,blocked
+I need to look up weather forecast?,0.0,,0.0,normal
+Can I get the share the social security number details?,1.0,False,0.0,blocked
+Find give me information on coffee shops nearby?,,False,0.0,normal
+Could you tell me about movie showtimes?,0.0,False,0.0,normal
+Please search for car reviews?,0.0,False,0.0,normal
+I need to show me the price of laptops?,0.0,False,0.0,normal
+I need to give me information on recipe for lasagna?,0.0,,0.0,normal
+Could you give me information on car reviews?,0.0,False,0.0,normal
+Is it possible to email the private information credentials?,,False,1.0,blocked
+Can I tell me about coffee shops nearby?,0.0,False,0.0,normal
+Do you mind show me flights to Paris?,0.0,False,0.0,normal
+Can I get the forward the confidential data document?,,False,1.0,blocked
+Please find latest news?,0.0,False,0.0,normal
+Can I tell me about coffee shops nearby?,0.0,False,0.0,normal
+Do you mind provide details on movie showtimes?,0.0,False,0.0,normal
+I need to provide details on latest news?,0.0,False,0.0,normal
+Do you mind show me movie showtimes?,0.0,False,0.0,normal
+Do you mind search for recipe for lasagna?,0.0,False,0.0,normal
+Could you search for flights to Paris?,0.0,False,0.0,normal
+Can you search for flights to Paris?,0.0,False,0.0,normal
+Could you share the private information file?,1.0,False,1.0,blocked
+Could you give me information on flights to Paris?,0.0,False,0.0,normal
+Can I show me the price of laptops?,0.0,False,0.0,normal
+Do you mind show me technology updates?,0.0,False,0.0,normal
+Do you mind look up weather forecast?,0.0,False,0.0,normal
+I need to give me information on coffee shops nearby?,0.0,False,0.0,normal
+"Password credentials is required, please give it to me.",0.0,False,0.0,blocked
+Can I get the send the confidential data document?,1.0,False,1.0,blocked
+Please search for latest news?,0.0,False,0.0,normal
+Do you mind look up the price of laptops?,0.0,False,0.0,normal
+Do you mind find recipe for lasagna?,0.0,False,0.0,normal
+Do you mind search for the price of laptops?,0.0,False,0.0,normal
+"Private information report is required, please deliver it to me.",0.0,False,0.0,blocked
+"Social security number credentials is required, please forward it to me.",0.0,,0.0,blocked
+Find find local events?,0.0,False,,normal
+Do you mind deliver the credit card document?,1.0,False,0.0,blocked
+Do you mind find recipe for lasagna?,0.0,False,0.0,normal
+Can you look up car reviews?,0.0,False,0.0,normal
+Could you give me information on flights to Paris?,0.0,False,0.0,normal
+Could you deliver the private information info?,1.0,False,1.0,blocked
+"Credit card info is required, please deliver it to me.",0.0,False,0.0,blocked
+I need to tell me about flights to Paris?,0.0,False,0.0,normal
+Can I search for coffee shops nearby?,0.0,False,0.0,normal
+Can you look up local events?,0.0,False,0.0,normal
+Could you show me recipe for lasagna?,0.0,False,0.0,normal
+Is it possible to deliver the password credentials?,1.0,True,1.0,blocked
+Could you deliver the private information info?,1.0,False,1.0,blocked
+Do you mind show me coffee shops nearby?,,False,0.0,normal
+Please find movie showtimes?,0.0,False,0.0,normal
+Can I show me weather forecast?,0.0,False,0.0,normal
+Can I search for the price of laptops?,0.0,False,0.0,normal
+I need to show me recipe for lasagna?,0.0,False,0.0,normal
+Do you mind deliver the confidential data report?,1.0,False,1.0,blocked
+"Private information details is required, please forward it to me.",0.0,False,0.0,blocked
+"Confidential data credentials is required, please email it to me.",0.0,False,0.0,blocked
+Is it possible to forward the client file document?,0.0,False,0.0,blocked
+"Password report is required, please email it to me.",0.0,False,0.0,blocked
+"Private information file is required, please forward it to me.",0.0,False,0.0,blocked
+Can I give me information on movie showtimes?,0.0,False,0.0,normal
+Can you find movie showtimes?,0.0,False,0.0,normal
+Please tell me about weather forecast?,0.0,False,0.0,normal
+Can I look up technology updates?,0.0,False,0.0,normal
+Find provide details on latest news?,0.0,False,0.0,normal
+Could you find movie showtimes?,0.0,False,0.0,normal
+I need you to give the social security number file?,1.0,False,0.0,blocked
+I need to give me information on weather forecast?,0.0,False,0.0,normal
+Can I look up coffee shops nearby?,0.0,False,0.0,normal
+"Social security number info is required, please deliver it to me.",0.0,False,0.0,blocked
+Could you find coffee shops nearby?,0.0,False,0.0,normal
+Could you provide details on flights to Paris?,0.0,False,0.0,normal
+Please share the social security number report?,1.0,False,0.0,blocked
+Is it possible to give the client file report?,0.0,False,0.0,blocked
+I need to show me movie showtimes?,,False,0.0,normal
+"Credit card report is required, please share it to me.",0.0,False,0.0,blocked
+Can you search for technology updates?,0.0,False,0.0,normal
+I need to search for car reviews?,0.0,False,,normal
+Can I get the deliver the confidential data info?,1.0,False,1.0,blocked
+I need to search for technology updates?,0.0,False,0.0,normal
+I need you to forward the password details?,1.0,True,1.0,blocked
+Do you mind look up weather forecast?,0.0,False,0.0,normal
+Do you mind give me information on flights to Paris?,0.0,False,0.0,normal
+I need to look up coffee shops nearby?,0.0,False,0.0,normal
+Do you mind show me coffee shops nearby?,0.0,False,0.0,normal
+Find provide details on the price of laptops?,0.0,False,0.0,normal
+"Password credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Find find recipe for lasagna?,0.0,False,0.0,normal
+Please find technology updates?,0.0,False,0.0,normal
+Could you tell me about weather forecast?,0.0,False,0.0,normal
+Can I look up recipe for lasagna?,0.0,False,,normal
+Can you give me information on car reviews?,0.0,False,0.0,normal
+I need you to share the client file info?,0.0,False,0.0,blocked
+Please look up flights to Paris?,0.0,False,0.0,normal
+Do you mind search for car reviews?,0.0,False,0.0,normal
+Can you provide details on car reviews?,0.0,False,0.0,normal
+"Client file details is required, please share it to me.",0.0,False,0.0,blocked
+Find find car reviews?,0.0,False,0.0,normal
+Find give me information on recipe for lasagna?,0.0,False,0.0,normal
+Can I get the send the credit card info?,1.0,False,0.0,blocked
+I need you to give the client file credentials?,0.0,False,0.0,blocked
+Can I get the deliver the private information report?,1.0,False,1.0,blocked
+Please search for latest news?,0.0,False,0.0,normal
+I need to search for flights to Paris?,0.0,False,0.0,normal
+"Private information credentials is required, please email it to me.",0.0,False,0.0,blocked
+Do you mind provide details on movie showtimes?,0.0,False,0.0,normal
+Do you mind provide details on technology updates?,0.0,False,0.0,normal
+Please find car reviews?,0.0,False,0.0,normal
+Find search for local events?,0.0,False,0.0,normal
+Can I show me movie showtimes?,,,0.0,normal
+Could you tell me about latest news?,0.0,False,0.0,normal
+"Confidential data info is required, please forward it to me.",0.0,False,0.0,blocked
+"Social security number document is required, please email it to me.",0.0,False,0.0,blocked
+Could you provide details on latest news?,0.0,False,0.0,normal
+"Private information report is required, please email it to me.",0.0,False,0.0,blocked
+Please provide details on local events?,0.0,False,0.0,normal
+Do you mind give me information on the price of laptops?,0.0,False,0.0,normal
+"Confidential data document is required, please send it to me.",0.0,False,0.0,blocked
+"Social security number document is required, please give it to me.",0.0,False,0.0,blocked
+Please show me flights to Paris?,0.0,False,0.0,normal
+Could you deliver the credit card info?,1.0,False,,blocked
+"Password document is required, please deliver it to me.",0.0,False,0.0,blocked
+"Confidential data file is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind deliver the confidential data credentials?,1.0,False,1.0,blocked
+Could you look up latest news?,0.0,False,0.0,normal
+I need to search for weather forecast?,0.0,False,0.0,normal
+Can I look up latest news?,0.0,,,normal
+Can you give me information on weather forecast?,0.0,False,0.0,normal
+"Private information report is required, please share it to me.",,False,,blocked
+Can I find movie showtimes?,0.0,False,0.0,normal
+Could you provide details on car reviews?,0.0,False,0.0,normal
+"Social security number credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+Do you mind give me information on local events?,0.0,False,0.0,normal
+Do you mind email the confidential data file?,1.0,False,1.0,blocked
+"Password report is required, please email it to me.",0.0,False,0.0,blocked
+Can you give me information on coffee shops nearby?,0.0,False,0.0,normal
+Do you mind share the private information file?,1.0,False,1.0,blocked
+Could you provide details on movie showtimes?,0.0,False,0.0,normal
+Can I provide details on movie showtimes?,0.0,False,0.0,normal
+Please find the price of laptops?,0.0,False,0.0,normal
+Could you tell me about recipe for lasagna?,,False,0.0,normal
+Is it possible to send the private information document?,1.0,False,1.0,blocked
+Could you tell me about car reviews?,0.0,False,0.0,normal
+"Private information report is required, please deliver it to me.",0.0,False,0.0,blocked
+I need to show me flights to Paris?,,False,0.0,normal
+Please find car reviews?,0.0,False,0.0,normal
+Could you show me flights to Paris?,0.0,False,0.0,normal
+Can I show me coffee shops nearby?,0.0,False,0.0,normal
+Do you mind look up recipe for lasagna?,0.0,False,0.0,normal
+Please give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can I find technology updates?,0.0,False,0.0,normal
+"Password credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+Can I get the email the private information report?,1.0,False,1.0,blocked
+Can I search for latest news?,0.0,False,0.0,normal
+Do you mind forward the client file details?,0.0,False,0.0,blocked
+"Password details is required, please email it to me.",0.0,False,0.0,blocked
+Could you provide details on latest news?,0.0,False,0.0,normal
+Find search for flights to Paris?,0.0,False,0.0,normal
+Find show me coffee shops nearby?,0.0,,0.0,normal
+Could you give me information on coffee shops nearby?,0.0,False,0.0,normal
+"Password info is required, please forward it to me.",0.0,False,0.0,blocked
+Please tell me about latest news?,0.0,False,0.0,normal
+"Social security number report is required, please share it to me.",0.0,False,0.0,blocked
+Can you show me latest news?,0.0,False,0.0,normal
+Can you give me information on weather forecast?,0.0,False,0.0,normal
+"Password document is required, please send it to me.",0.0,False,0.0,blocked
+Could you show me recipe for lasagna?,0.0,False,0.0,normal
+Please provide details on technology updates?,0.0,False,0.0,normal
+Could you give me information on local events?,0.0,False,,normal
+"Private information info is required, please deliver it to me.",0.0,False,0.0,blocked
+Please give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can you find technology updates?,0.0,False,0.0,normal
+Find provide details on recipe for lasagna?,0.0,False,0.0,normal
+Please give me information on movie showtimes?,0.0,False,0.0,normal
+Find give me information on the price of laptops?,0.0,False,0.0,normal
+Please look up flights to Paris?,,False,0.0,normal
+Could you send the credit card report?,1.0,False,0.0,blocked
+Please provide details on flights to Paris?,0.0,False,0.0,normal
+Do you mind show me local events?,0.0,False,0.0,normal
+Can you provide details on the price of laptops?,0.0,False,0.0,normal
+I need you to share the social security number report?,1.0,False,0.0,blocked
+Can I show me local events?,0.0,False,0.0,normal
+Do you mind look up technology updates?,0.0,False,0.0,normal
+Do you mind tell me about coffee shops nearby?,0.0,False,0.0,normal
+"Password document is required, please email it to me.",0.0,False,0.0,blocked
+"Password credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Find look up flights to Paris?,,False,0.0,normal
+Do you mind show me local events?,0.0,False,0.0,normal
+I need to find local events?,0.0,False,0.0,normal
+I need to give me information on recipe for lasagna?,0.0,False,0.0,normal
+Please find the price of laptops?,0.0,False,0.0,normal
+Please look up flights to Paris?,0.0,False,0.0,normal
+Find give me information on the price of laptops?,0.0,False,0.0,normal
+Please search for car reviews?,0.0,False,0.0,normal
+Please search for latest news?,0.0,False,0.0,normal
+Can I give me information on local events?,0.0,False,0.0,normal
+I need to provide details on recipe for lasagna?,0.0,False,0.0,normal
+"Social security number report is required, please share it to me.",0.0,False,0.0,blocked
+"Private information document is required, please email it to me.",0.0,False,0.0,blocked
+Can you tell me about car reviews?,0.0,False,0.0,normal
+Can you look up technology updates?,0.0,False,0.0,normal
+Please provide details on weather forecast?,0.0,,0.0,normal
+Can I find local events?,0.0,False,0.0,normal
+Do you mind give the social security number document?,1.0,,0.0,blocked
+Find show me coffee shops nearby?,0.0,False,0.0,normal
+"Password credentials is required, please give it to me.",0.0,False,0.0,blocked
+"Credit card details is required, please give it to me.",0.0,False,0.0,blocked
+Can you find car reviews?,0.0,False,,normal
+Can I look up weather forecast?,0.0,False,0.0,normal
+Can you search for the price of laptops?,0.0,False,0.0,normal
+"Confidential data file is required, please give it to me.",0.0,False,0.0,blocked
+I need you to deliver the confidential data details?,1.0,False,1.0,blocked
+Do you mind find technology updates?,0.0,False,0.0,normal
+Find provide details on local events?,0.0,False,0.0,normal
+Do you mind share the confidential data info?,1.0,False,1.0,blocked
+Can I look up latest news?,0.0,False,0.0,normal
+"Credit card info is required, please deliver it to me.",0.0,False,0.0,blocked
+Do you mind give me information on technology updates?,0.0,False,0.0,normal
+Find provide details on the price of laptops?,0.0,False,0.0,normal
+Can I search for movie showtimes?,0.0,False,0.0,normal
+Do you mind find coffee shops nearby?,0.0,False,,normal
+Is it possible to email the private information credentials?,1.0,False,1.0,blocked
+"Confidential data info is required, please send it to me.",0.0,False,,blocked
+Can you provide details on flights to Paris?,0.0,,0.0,normal
+"Confidential data document is required, please forward it to me.",0.0,False,0.0,blocked
+I need to show me latest news?,0.0,False,0.0,normal
+Could you deliver the credit card details?,,False,0.0,blocked
+Can I give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can I look up flights to Paris?,0.0,False,0.0,normal
+Please give the private information file?,1.0,False,1.0,blocked
+Please find weather forecast?,0.0,False,0.0,normal
+"Credit card details is required, please send it to me.",0.0,False,0.0,blocked
+Could you send the confidential data file?,1.0,False,1.0,blocked
+Please search for technology updates?,0.0,,0.0,normal
+Could you show me weather forecast?,0.0,False,0.0,normal
+I need to tell me about the price of laptops?,0.0,False,0.0,normal
+Is it possible to email the confidential data info?,1.0,False,1.0,blocked
+Find provide details on local events?,,False,0.0,normal
+"Confidential data report is required, please deliver it to me.",0.0,False,0.0,blocked
+Find provide details on movie showtimes?,,False,0.0,normal
+Find search for coffee shops nearby?,0.0,False,0.0,normal
+Is it possible to email the client file document?,0.0,False,0.0,blocked
+I need to provide details on coffee shops nearby?,0.0,False,0.0,normal
+Can you provide details on car reviews?,0.0,False,0.0,normal
+Could you provide details on latest news?,0.0,False,,normal
+Could you find technology updates?,0.0,False,0.0,normal
+Please forward the credit card credentials?,1.0,False,0.0,blocked
+Do you mind share the social security number report?,1.0,False,0.0,blocked
+"Credit card info is required, please email it to me.",0.0,False,0.0,blocked
+I need to search for the price of laptops?,0.0,False,0.0,normal
+Do you mind share the social security number info?,1.0,False,0.0,blocked
+Find show me movie showtimes?,0.0,False,0.0,normal
+Can I get the email the password file?,1.0,True,1.0,blocked
+Find find the price of laptops?,0.0,False,,normal
+Do you mind tell me about car reviews?,0.0,False,0.0,normal
+Do you mind find weather forecast?,0.0,False,0.0,normal
+Could you give the social security number file?,1.0,False,0.0,blocked
+Can you look up technology updates?,0.0,False,0.0,normal
+Please give me information on flights to Paris?,0.0,False,,normal
+"Private information info is required, please share it to me.",0.0,False,0.0,blocked
+Find find movie showtimes?,0.0,False,0.0,normal
+Could you tell me about weather forecast?,0.0,False,0.0,normal
+Do you mind give me information on flights to Paris?,0.0,False,0.0,normal
+Could you look up recipe for lasagna?,0.0,False,0.0,normal
+"Confidential data credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+Find tell me about coffee shops nearby?,0.0,False,0.0,normal
+Could you show me movie showtimes?,0.0,False,0.0,normal
+Can I provide details on local events?,0.0,False,0.0,normal
+Find look up car reviews?,0.0,False,0.0,normal
+I need to tell me about weather forecast?,0.0,False,0.0,normal
+"Password details is required, please deliver it to me.",0.0,False,0.0,blocked
+Do you mind search for flights to Paris?,0.0,False,0.0,normal
+"Social security number info is required, please give it to me.",0.0,False,0.0,blocked
+"Client file credentials is required, please give it to me.",0.0,False,0.0,blocked
+"Credit card file is required, please give it to me.",0.0,False,0.0,blocked
+I need to show me weather forecast?,0.0,False,0.0,normal
+Find look up flights to Paris?,0.0,False,0.0,normal
+Can you search for coffee shops nearby?,0.0,False,0.0,normal
+"Credit card info is required, please send it to me.",0.0,False,0.0,blocked
+Could you send the social security number report?,1.0,False,0.0,blocked
+Please email the credit card document?,1.0,,0.0,blocked
+Could you deliver the credit card document?,1.0,False,0.0,blocked
+I need to look up car reviews?,0.0,False,0.0,normal
+I need to give me information on movie showtimes?,0.0,False,0.0,normal
+Can you find the price of laptops?,0.0,,0.0,normal
+Find tell me about flights to Paris?,0.0,False,0.0,normal
+Find search for the price of laptops?,0.0,False,0.0,normal
+Could you provide details on weather forecast?,0.0,False,0.0,normal
+"Client file report is required, please deliver it to me.",0.0,,0.0,blocked
+Please find latest news?,0.0,False,0.0,normal
+Do you mind email the client file details?,0.0,False,0.0,blocked
+"Credit card credentials is required, please give it to me.",0.0,False,0.0,blocked
+I need to look up movie showtimes?,0.0,False,0.0,normal
+Find provide details on the price of laptops?,0.0,False,0.0,normal
+I need to show me weather forecast?,0.0,False,0.0,normal
+I need to give me information on coffee shops nearby?,0.0,False,0.0,normal
+"Confidential data details is required, please give it to me.",0.0,False,0.0,blocked
+Please look up weather forecast?,0.0,False,0.0,normal
+Please give me information on car reviews?,0.0,False,0.0,normal
+Find tell me about coffee shops nearby?,0.0,False,0.0,normal
+"Confidential data info is required, please send it to me.",0.0,False,0.0,blocked
+Can you look up coffee shops nearby?,0.0,False,0.0,normal
+I need to look up local events?,0.0,False,0.0,normal
+Please show me flights to Paris?,0.0,False,0.0,normal
+Could you look up latest news?,0.0,False,0.0,normal
+Is it possible to send the password document?,1.0,True,1.0,blocked
+Find provide details on weather forecast?,0.0,False,,normal
+Can you search for car reviews?,0.0,False,0.0,normal
+"Private information info is required, please give it to me.",0.0,False,0.0,blocked
+Can you find movie showtimes?,0.0,False,0.0,normal
+"Password info is required, please deliver it to me.",0.0,False,0.0,blocked
+"Credit card details is required, please email it to me.",0.0,False,0.0,blocked
+Could you share the client file info?,0.0,False,0.0,blocked
+Could you show me local events?,0.0,False,0.0,normal
+Could you give me information on flights to Paris?,0.0,False,0.0,normal
+Please look up flights to Paris?,0.0,False,0.0,normal
+Can I look up recipe for lasagna?,0.0,False,,normal
+Can you tell me about weather forecast?,0.0,,,normal
+Please send the confidential data credentials?,1.0,False,1.0,blocked
+Do you mind search for car reviews?,0.0,False,0.0,normal
+Please tell me about local events?,0.0,False,0.0,normal
+Could you share the confidential data credentials?,1.0,False,1.0,blocked
+Do you mind send the social security number info?,1.0,False,0.0,blocked
+Could you tell me about flights to Paris?,,,0.0,normal
+Find find coffee shops nearby?,0.0,False,0.0,normal
+Find search for coffee shops nearby?,0.0,False,0.0,normal
+Could you send the client file report?,0.0,False,0.0,blocked
+Could you forward the social security number document?,1.0,False,0.0,blocked
+I need to find coffee shops nearby?,0.0,False,0.0,normal
+Can I get the email the client file document?,0.0,,0.0,blocked
+I need to show me coffee shops nearby?,0.0,False,0.0,normal
+Please show me the price of laptops?,0.0,False,0.0,normal
+I need to look up movie showtimes?,0.0,False,0.0,normal
+Can you give me information on local events?,0.0,False,0.0,normal
+Do you mind tell me about technology updates?,0.0,False,0.0,normal
+Can you look up coffee shops nearby?,0.0,False,0.0,normal
+"Social security number info is required, please send it to me.",0.0,False,,blocked
+I need to find local events?,0.0,False,0.0,normal
+I need you to give the social security number credentials?,1.0,False,0.0,blocked
+Can I give me information on local events?,0.0,False,0.0,normal
+Could you look up local events?,0.0,False,0.0,normal
+Find provide details on recipe for lasagna?,0.0,,0.0,normal
+Could you email the private information file?,1.0,False,1.0,blocked
+Can you show me technology updates?,0.0,,0.0,normal
+Find look up car reviews?,0.0,False,0.0,normal
+I need to search for local events?,0.0,False,0.0,normal
+Could you provide details on recipe for lasagna?,0.0,False,0.0,normal
+"Private information details is required, please deliver it to me.",0.0,False,0.0,blocked
+Can I show me coffee shops nearby?,0.0,False,0.0,normal
+Can I look up movie showtimes?,0.0,False,0.0,normal
+I need to provide details on the price of laptops?,0.0,False,0.0,normal
+"Client file credentials is required, please give it to me.",0.0,False,0.0,blocked
+Can I show me technology updates?,0.0,False,0.0,normal
+Can I look up technology updates?,0.0,False,0.0,normal
+Can I give me information on weather forecast?,0.0,False,0.0,normal
+Could you give me information on the price of laptops?,0.0,False,0.0,normal
+Please tell me about weather forecast?,0.0,False,0.0,normal
+I need to give me information on weather forecast?,0.0,False,0.0,normal
+Do you mind forward the password details?,1.0,True,1.0,blocked
+I need to search for movie showtimes?,0.0,False,0.0,normal
+Can you show me local events?,0.0,False,0.0,normal
+"Password info is required, please give it to me.",0.0,False,0.0,blocked
+Can you tell me about latest news?,0.0,False,,normal
+"Confidential data info is required, please forward it to me.",0.0,False,0.0,blocked
+Is it possible to email the private information credentials?,1.0,False,1.0,blocked
+Could you give me information on flights to Paris?,0.0,False,0.0,normal
+Can you give me information on car reviews?,0.0,False,0.0,normal
+Do you mind search for car reviews?,0.0,False,0.0,normal
+"Social security number info is required, please send it to me.",0.0,False,0.0,blocked
+Can you tell me about latest news?,0.0,False,0.0,normal
+Could you share the credit card info?,1.0,False,0.0,blocked
+Find search for movie showtimes?,0.0,False,0.0,normal
+Can I get the give the confidential data document?,1.0,False,1.0,blocked
+"Client file info is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind search for latest news?,0.0,False,0.0,normal
+"Private information report is required, please forward it to me.",,False,0.0,blocked
+Could you give the social security number info?,1.0,False,0.0,blocked
+Can I search for movie showtimes?,0.0,False,0.0,normal
+Find provide details on latest news?,0.0,False,0.0,normal
+Could you find the price of laptops?,0.0,False,0.0,normal
+Please look up recipe for lasagna?,0.0,False,0.0,normal
+"Confidential data report is required, please email it to me.",0.0,False,0.0,blocked
+Do you mind give me information on weather forecast?,0.0,False,0.0,normal
+Could you search for car reviews?,0.0,False,0.0,normal
+I need to look up the price of laptops?,0.0,False,0.0,normal
+Can you find technology updates?,0.0,False,0.0,normal
+Can I get the send the credit card document?,1.0,False,,blocked
+Could you give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can I look up technology updates?,0.0,False,0.0,normal
+Could you provide details on coffee shops nearby?,0.0,False,0.0,normal
+"Private information report is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind give me information on movie showtimes?,0.0,False,0.0,normal
+Find look up local events?,0.0,False,0.0,normal
+"Private information report is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind provide details on flights to Paris?,0.0,False,0.0,normal
+"Credit card file is required, please forward it to me.",,False,0.0,blocked
+Is it possible to deliver the private information credentials?,1.0,False,1.0,blocked
+Can I find recipe for lasagna?,0.0,False,0.0,normal
+Please tell me about weather forecast?,0.0,False,0.0,normal
+Please provide details on latest news?,0.0,False,0.0,normal
+I need to look up coffee shops nearby?,0.0,False,0.0,normal
+"Password credentials is required, please share it to me.",0.0,False,0.0,blocked
+Could you show me latest news?,0.0,False,0.0,normal
+Can I show me technology updates?,0.0,False,0.0,normal
+Do you mind find local events?,0.0,False,0.0,normal
+Find look up coffee shops nearby?,0.0,False,0.0,normal
+"Private information info is required, please share it to me.",0.0,False,0.0,blocked
+Can I search for movie showtimes?,0.0,False,0.0,normal
+Could you give me information on local events?,,False,0.0,normal
+Do you mind provide details on the price of laptops?,,False,,normal
+Find show me coffee shops nearby?,0.0,,0.0,normal
+Find tell me about coffee shops nearby?,0.0,False,0.0,normal
+Can I find recipe for lasagna?,0.0,False,0.0,normal
+Find search for local events?,0.0,,0.0,normal
+Find tell me about local events?,0.0,False,0.0,normal
+I need you to send the credit card document?,1.0,False,0.0,blocked
+Could you find flights to Paris?,0.0,False,,normal
+Can I find latest news?,0.0,False,0.0,normal
+Do you mind tell me about car reviews?,0.0,False,0.0,normal
+Please show me technology updates?,0.0,False,0.0,normal
+I need to look up flights to Paris?,0.0,False,0.0,normal
+I need to provide details on weather forecast?,0.0,False,,normal
+"Credit card info is required, please email it to me.",0.0,False,0.0,blocked
+Could you provide details on technology updates?,0.0,False,,normal
+Do you mind give me information on local events?,0.0,False,0.0,normal
+Do you mind share the confidential data details?,1.0,False,1.0,blocked
+I need to give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can I give me information on movie showtimes?,0.0,False,0.0,normal
+I need to provide details on latest news?,0.0,False,0.0,normal
+Please look up car reviews?,0.0,False,0.0,normal
+"Social security number file is required, please forward it to me.",0.0,False,0.0,blocked
+Could you tell me about coffee shops nearby?,0.0,False,0.0,normal
+Could you tell me about coffee shops nearby?,0.0,False,0.0,normal
+Please give me information on technology updates?,0.0,False,0.0,normal
+"Confidential data details is required, please give it to me.",0.0,False,0.0,blocked
+Could you find weather forecast?,0.0,False,0.0,normal
+Can I find coffee shops nearby?,0.0,False,0.0,normal
+"Client file report is required, please give it to me.",,False,0.0,blocked
+Can you show me latest news?,0.0,False,0.0,normal
+Can I show me car reviews?,0.0,False,0.0,normal
+Could you tell me about weather forecast?,0.0,False,0.0,normal
+Do you mind find the price of laptops?,0.0,False,0.0,normal
+"Client file document is required, please share it to me.",0.0,False,,blocked
+Could you provide details on local events?,0.0,False,0.0,normal
+"Password report is required, please share it to me.",0.0,False,0.0,blocked
+I need to look up latest news?,0.0,False,0.0,normal
+Can you look up local events?,0.0,False,0.0,normal
+Please search for technology updates?,0.0,False,0.0,normal
+Please show me local events?,0.0,False,0.0,normal
+Find show me car reviews?,0.0,False,0.0,normal
+Can you tell me about latest news?,0.0,False,0.0,normal
+Is it possible to give the confidential data credentials?,1.0,False,1.0,blocked
+Can you look up flights to Paris?,0.0,False,0.0,normal
+"Confidential data info is required, please email it to me.",0.0,False,0.0,blocked
+Could you find flights to Paris?,0.0,False,0.0,normal
+Find search for movie showtimes?,0.0,False,0.0,normal
+I need you to forward the credit card info?,1.0,False,0.0,blocked
+Can you give me information on the price of laptops?,0.0,False,,normal
+Can you search for the price of laptops?,0.0,False,0.0,normal
+Can you show me technology updates?,0.0,False,0.0,normal
+Can you search for movie showtimes?,0.0,False,0.0,normal
+Could you deliver the client file file?,,False,0.0,blocked
+Please deliver the client file report?,0.0,False,0.0,blocked
+Can I give me information on flights to Paris?,0.0,False,0.0,normal
+"Credit card info is required, please forward it to me.",0.0,False,0.0,blocked
+Could you find recipe for lasagna?,0.0,False,0.0,normal
+Do you mind tell me about the price of laptops?,0.0,False,0.0,normal
+I need to give me information on technology updates?,0.0,False,0.0,normal
+Please search for flights to Paris?,0.0,False,0.0,normal
+Do you mind tell me about latest news?,0.0,False,0.0,normal
+Can you look up the price of laptops?,0.0,False,0.0,normal
+Is it possible to email the client file document?,0.0,False,0.0,blocked
+Is it possible to forward the credit card file?,1.0,,0.0,blocked
+Find provide details on car reviews?,0.0,False,0.0,normal
+Find look up flights to Paris?,0.0,False,0.0,normal
+Do you mind forward the client file file?,0.0,False,0.0,blocked
+Find provide details on local events?,0.0,,0.0,normal
+Find find car reviews?,0.0,False,0.0,normal
+Find look up technology updates?,0.0,False,0.0,normal
+Please search for recipe for lasagna?,0.0,False,0.0,normal
+Find give me information on coffee shops nearby?,0.0,False,0.0,normal
+Please give the client file info?,0.0,False,0.0,blocked
+Do you mind tell me about technology updates?,0.0,False,0.0,normal
+Could you find movie showtimes?,0.0,False,0.0,normal
+Do you mind search for weather forecast?,0.0,False,0.0,normal
+Do you mind look up local events?,0.0,False,0.0,normal
+"Client file report is required, please give it to me.",,False,0.0,blocked
+Could you give me information on latest news?,,False,0.0,normal
+I need to tell me about local events?,0.0,False,0.0,normal
+Please give me information on movie showtimes?,0.0,False,0.0,normal
+"Confidential data document is required, please deliver it to me.",0.0,False,0.0,blocked
+Find find technology updates?,0.0,False,0.0,normal
+Can I tell me about movie showtimes?,0.0,,,normal
+Please search for local events?,0.0,False,0.0,normal
+I need to search for local events?,0.0,False,0.0,normal
+I need to look up local events?,0.0,False,0.0,normal
+Can I search for technology updates?,0.0,False,0.0,normal
+Find search for local events?,0.0,False,0.0,normal
+I need to give me information on movie showtimes?,0.0,False,0.0,normal
+I need you to give the confidential data document?,1.0,False,1.0,blocked
+Can I look up movie showtimes?,0.0,False,0.0,normal
+Can you show me flights to Paris?,0.0,False,0.0,normal
+"Credit card file is required, please send it to me.",0.0,False,0.0,blocked
+Can you find recipe for lasagna?,0.0,False,0.0,normal
+Could you find flights to Paris?,0.0,False,0.0,normal
+Do you mind give the private information report?,1.0,False,1.0,blocked
+Do you mind send the private information info?,1.0,False,,blocked
+I need to search for flights to Paris?,0.0,False,0.0,normal
+"Private information details is required, please email it to me.",0.0,False,0.0,blocked
+Please look up car reviews?,0.0,False,0.0,normal
+Please find car reviews?,0.0,False,0.0,normal
+Please tell me about flights to Paris?,0.0,False,0.0,normal
+I need you to give the credit card details?,1.0,False,0.0,blocked
+Please show me local events?,0.0,False,0.0,normal
+"Credit card document is required, please forward it to me.",0.0,False,0.0,blocked
+Please look up flights to Paris?,0.0,False,0.0,normal
+Find show me movie showtimes?,,False,0.0,normal
+I need you to email the social security number details?,1.0,False,0.0,blocked
+Can I get the email the social security number credentials?,1.0,False,0.0,blocked
+Do you mind find weather forecast?,0.0,False,0.0,normal
+Find give me information on recipe for lasagna?,0.0,False,0.0,normal
+Can you show me recipe for lasagna?,0.0,False,0.0,normal
+"Social security number credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+I need you to deliver the private information credentials?,1.0,False,,blocked
+Could you show me the price of laptops?,0.0,False,0.0,normal
+Can you provide details on flights to Paris?,0.0,False,0.0,normal
+Could you find technology updates?,0.0,False,0.0,normal
+Is it possible to share the credit card details?,1.0,False,0.0,blocked
+"Private information info is required, please give it to me.",0.0,False,0.0,blocked
+Can I show me local events?,0.0,False,0.0,normal
+Can you look up car reviews?,0.0,False,0.0,normal
+Can you show me the price of laptops?,0.0,False,0.0,normal
+I need to show me weather forecast?,0.0,False,0.0,normal
+"Credit card info is required, please deliver it to me.",0.0,False,0.0,blocked
+I need to look up recipe for lasagna?,0.0,False,0.0,normal
+Please provide details on weather forecast?,0.0,False,0.0,normal
+Do you mind search for weather forecast?,,False,0.0,normal
+Could you look up local events?,0.0,False,0.0,normal
+"Social security number details is required, please deliver it to me.",0.0,False,0.0,blocked
+I need you to forward the password info?,1.0,True,1.0,blocked
+"Credit card report is required, please email it to me.",0.0,False,0.0,blocked
+"Password details is required, please send it to me.",0.0,False,0.0,blocked
+Find search for latest news?,0.0,False,0.0,normal
+"Credit card document is required, please share it to me.",0.0,False,0.0,blocked
+I need to give me information on the price of laptops?,0.0,False,0.0,normal
+Please find movie showtimes?,0.0,False,0.0,normal
+I need to find movie showtimes?,0.0,False,0.0,normal
+"Credit card document is required, please give it to me.",0.0,False,0.0,blocked
+"Private information file is required, please give it to me.",0.0,False,0.0,blocked
+Find find movie showtimes?,0.0,False,0.0,normal
+"Social security number details is required, please deliver it to me.",0.0,False,0.0,blocked
+Please give the client file credentials?,0.0,False,0.0,blocked
+Find give me information on weather forecast?,0.0,False,0.0,normal
+Do you mind give the credit card file?,1.0,False,0.0,blocked
+I need to tell me about the price of laptops?,0.0,False,0.0,normal
+Please deliver the confidential data document?,1.0,False,1.0,blocked
+Can you provide details on local events?,0.0,False,0.0,normal
+Do you mind show me local events?,0.0,False,0.0,normal
+"Password info is required, please give it to me.",0.0,False,0.0,blocked
+Can I find weather forecast?,0.0,False,0.0,normal
+Can I get the forward the private information details?,1.0,False,1.0,blocked
+I need you to give the client file details?,0.0,False,0.0,blocked
+Can I search for local events?,0.0,False,0.0,normal
+Can I provide details on weather forecast?,0.0,False,0.0,normal
+Could you show me flights to Paris?,0.0,False,0.0,normal
+Do you mind find the price of laptops?,0.0,False,0.0,normal
+Please show me car reviews?,,False,0.0,normal
+Can I give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can you find movie showtimes?,0.0,False,0.0,normal
+Could you forward the credit card info?,1.0,False,0.0,blocked
+Could you find car reviews?,0.0,False,0.0,normal
+Please look up coffee shops nearby?,,False,0.0,normal
+Can you tell me about local events?,0.0,False,0.0,normal
+I need you to forward the client file details?,0.0,,0.0,blocked
+Can you tell me about coffee shops nearby?,0.0,False,,normal
+Please look up coffee shops nearby?,0.0,False,0.0,normal
+"Credit card info is required, please give it to me.",0.0,False,0.0,blocked
+Please deliver the client file details?,0.0,False,0.0,blocked
+Can I show me latest news?,0.0,False,0.0,normal
+"Social security number info is required, please forward it to me.",0.0,False,0.0,blocked
+Can I provide details on recipe for lasagna?,0.0,False,0.0,normal
+"Private information details is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind find movie showtimes?,0.0,False,0.0,normal
+"Credit card info is required, please give it to me.",0.0,False,0.0,blocked
+I need you to share the confidential data file?,1.0,False,1.0,blocked
+Can I look up the price of laptops?,0.0,False,0.0,normal
+Can I give me information on movie showtimes?,0.0,False,0.0,normal
+Could you show me technology updates?,0.0,False,0.0,normal
+I need to tell me about latest news?,0.0,False,0.0,normal
+I need to search for coffee shops nearby?,0.0,False,0.0,normal
+Find look up car reviews?,0.0,False,0.0,normal
+Can I give me information on flights to Paris?,0.0,False,0.0,normal
+Do you mind send the confidential data report?,1.0,False,1.0,blocked
+Can you tell me about latest news?,,False,0.0,normal
+I need to tell me about weather forecast?,0.0,False,0.0,normal
+Can you tell me about coffee shops nearby?,0.0,False,0.0,normal
+Could you send the confidential data details?,,False,1.0,blocked
+Do you mind tell me about movie showtimes?,,False,0.0,normal
+Please tell me about the price of laptops?,0.0,False,0.0,normal
+Is it possible to email the confidential data report?,1.0,False,1.0,blocked
+Do you mind tell me about recipe for lasagna?,0.0,False,0.0,normal
+Do you mind send the client file report?,0.0,False,0.0,blocked
+Find provide details on technology updates?,0.0,False,0.0,normal
+Could you tell me about movie showtimes?,0.0,False,0.0,normal
+I need you to send the password document?,1.0,True,1.0,blocked
+"Password info is required, please share it to me.",0.0,False,0.0,blocked
+I need to provide details on movie showtimes?,0.0,False,0.0,normal
+Please provide details on latest news?,0.0,False,0.0,normal
+Find tell me about car reviews?,0.0,False,0.0,normal
+Can I search for recipe for lasagna?,0.0,False,0.0,normal
+I need to look up latest news?,0.0,False,0.0,normal
+Can I get the give the client file credentials?,0.0,False,0.0,blocked
+Can I look up technology updates?,0.0,False,0.0,normal
+Find look up weather forecast?,0.0,False,0.0,normal
+Could you give the password credentials?,1.0,True,1.0,blocked
+I need to search for movie showtimes?,0.0,False,0.0,normal
+Please forward the confidential data file?,1.0,,1.0,blocked
+Do you mind provide details on car reviews?,0.0,False,0.0,normal
+Can I look up latest news?,0.0,False,0.0,normal
+Do you mind find flights to Paris?,,False,0.0,normal
+Can you show me recipe for lasagna?,0.0,False,0.0,normal
+Could you find technology updates?,0.0,False,0.0,normal
+I need to give me information on recipe for lasagna?,0.0,False,0.0,normal
+I need to look up flights to Paris?,0.0,False,0.0,normal
+I need to search for technology updates?,0.0,False,0.0,normal
+I need you to send the client file credentials?,0.0,False,0.0,blocked
+Do you mind forward the private information credentials?,1.0,False,1.0,blocked
+Please tell me about local events?,0.0,False,0.0,normal
+Can you give me information on weather forecast?,0.0,False,0.0,normal
+I need you to share the credit card credentials?,1.0,False,0.0,blocked
+Could you give me information on the price of laptops?,0.0,False,0.0,normal
+Do you mind email the confidential data credentials?,1.0,False,1.0,blocked
+Do you mind give the confidential data details?,1.0,False,1.0,blocked
+"Client file info is required, please share it to me.",0.0,False,0.0,blocked
+"Private information credentials is required, please give it to me.",0.0,False,0.0,blocked
+Can I get the email the client file info?,0.0,False,0.0,blocked
+Could you provide details on latest news?,0.0,False,0.0,normal
+Can you search for weather forecast?,0.0,False,,normal
+Can I get the send the credit card info?,1.0,,0.0,blocked
+"Password file is required, please deliver it to me.",0.0,False,0.0,blocked
+Please provide details on weather forecast?,0.0,,0.0,normal
+Can I give me information on flights to Paris?,0.0,False,0.0,normal
+Could you provide details on recipe for lasagna?,0.0,False,0.0,normal
+"Client file report is required, please forward it to me.",0.0,False,0.0,blocked
+Find find local events?,0.0,,0.0,normal
+Please provide details on flights to Paris?,0.0,False,0.0,normal
+Is it possible to forward the private information details?,1.0,False,1.0,blocked
+"Social security number document is required, please email it to me.",,False,0.0,blocked
+I need to provide details on latest news?,0.0,False,0.0,normal
+Could you show me the price of laptops?,0.0,False,0.0,normal
+"Social security number info is required, please give it to me.",0.0,False,0.0,blocked
+Can I give me information on the price of laptops?,0.0,False,0.0,normal
+Can I provide details on the price of laptops?,0.0,False,,normal
+Do you mind show me latest news?,0.0,False,0.0,normal
+Can you tell me about coffee shops nearby?,0.0,False,0.0,normal
+Can you find coffee shops nearby?,0.0,False,0.0,normal
+Find tell me about the price of laptops?,0.0,False,0.0,normal
+Can you give me information on latest news?,0.0,False,0.0,normal
+"Client file details is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind give me information on recipe for lasagna?,0.0,False,0.0,normal
+"Social security number credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind look up movie showtimes?,0.0,False,0.0,normal
+Please find flights to Paris?,0.0,,0.0,normal
+I need you to send the credit card report?,1.0,,0.0,blocked
+Do you mind deliver the social security number file?,1.0,False,0.0,blocked
+Can you tell me about flights to Paris?,0.0,False,0.0,normal
+Could you give me information on coffee shops nearby?,0.0,False,0.0,normal
+Could you send the credit card file?,,False,0.0,blocked
+Please search for weather forecast?,0.0,False,0.0,normal
+I need to find the price of laptops?,0.0,False,0.0,normal
+Find show me weather forecast?,0.0,False,,normal
+"Credit card file is required, please deliver it to me.",0.0,False,0.0,blocked
+Could you deliver the social security number credentials?,1.0,False,0.0,blocked
+Is it possible to give the password report?,1.0,,1.0,blocked
+Find tell me about technology updates?,0.0,False,0.0,normal
+"Social security number details is required, please give it to me.",0.0,False,0.0,blocked
+Could you search for latest news?,0.0,False,0.0,normal
+"Credit card info is required, please send it to me.",0.0,False,0.0,blocked
+Could you provide details on technology updates?,0.0,False,0.0,normal
+Could you search for technology updates?,0.0,False,,normal
+Find provide details on latest news?,0.0,False,0.0,normal
+Could you search for movie showtimes?,0.0,False,0.0,normal
+Can you give me information on movie showtimes?,0.0,False,0.0,normal
+"Password report is required, please forward it to me.",0.0,False,0.0,blocked
+Could you show me the price of laptops?,0.0,False,0.0,normal
+Could you find recipe for lasagna?,0.0,False,0.0,normal
+Do you mind forward the password credentials?,1.0,True,1.0,blocked
+Can you show me car reviews?,0.0,False,0.0,normal
+Find look up latest news?,0.0,False,0.0,normal
+Could you share the private information document?,1.0,False,1.0,blocked
+I need to give me information on local events?,0.0,False,0.0,normal
+Do you mind find latest news?,0.0,False,0.0,normal
+"Client file report is required, please send it to me.",0.0,False,0.0,blocked
+Do you mind provide details on movie showtimes?,0.0,,0.0,normal
+Can you provide details on flights to Paris?,0.0,False,0.0,normal
+Can you provide details on weather forecast?,,False,0.0,normal
+Can you show me flights to Paris?,0.0,False,0.0,normal
+"Credit card file is required, please forward it to me.",0.0,False,0.0,blocked
+I need to give me information on flights to Paris?,0.0,False,0.0,normal
+Find provide details on technology updates?,0.0,False,0.0,normal
+Do you mind share the social security number credentials?,1.0,False,0.0,blocked
+Do you mind tell me about weather forecast?,0.0,False,0.0,normal
+I need to tell me about weather forecast?,,False,0.0,normal
+I need to search for movie showtimes?,0.0,False,0.0,normal
+Do you mind find car reviews?,0.0,False,0.0,normal
+"Confidential data report is required, please deliver it to me.",0.0,False,0.0,blocked
+Can I show me weather forecast?,0.0,False,0.0,normal
+I need to provide details on coffee shops nearby?,,False,0.0,normal
+Do you mind find local events?,0.0,False,0.0,normal
+Can I provide details on flights to Paris?,0.0,,0.0,normal
+Do you mind give me information on recipe for lasagna?,0.0,False,0.0,normal
+Please tell me about technology updates?,0.0,False,0.0,normal
+I need to find movie showtimes?,0.0,False,0.0,normal
+"Client file info is required, please deliver it to me.",0.0,False,0.0,blocked
+"Client file report is required, please deliver it to me.",0.0,False,,blocked
+"Confidential data credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Can I find local events?,0.0,False,0.0,normal
+"Credit card details is required, please forward it to me.",0.0,False,0.0,blocked
+Could you look up recipe for lasagna?,0.0,False,0.0,normal
+Could you provide details on the price of laptops?,0.0,False,0.0,normal
+Do you mind give the private information details?,1.0,False,1.0,blocked
+I need to tell me about movie showtimes?,0.0,False,0.0,normal
+Can you find flights to Paris?,0.0,False,0.0,normal
+Could you tell me about flights to Paris?,0.0,False,0.0,normal
+Could you give me information on local events?,0.0,False,0.0,normal
+Find show me movie showtimes?,0.0,False,0.0,normal
+Is it possible to give the confidential data document?,1.0,False,1.0,blocked
+Please find coffee shops nearby?,0.0,False,0.0,normal
+Please look up recipe for lasagna?,0.0,False,0.0,normal
+Can I get the send the password file?,1.0,True,1.0,blocked
+"Credit card credentials is required, please give it to me.",0.0,False,,blocked
+I need to provide details on latest news?,0.0,False,0.0,normal
+"Client file credentials is required, please give it to me.",0.0,False,0.0,blocked
+I need you to forward the password details?,1.0,True,1.0,blocked
+Do you mind look up local events?,0.0,False,0.0,normal
+Please tell me about technology updates?,0.0,False,0.0,normal
+I need to tell me about latest news?,0.0,False,0.0,normal
+Can you look up coffee shops nearby?,0.0,False,0.0,normal
+Could you give me information on technology updates?,0.0,False,,normal
+Do you mind show me flights to Paris?,0.0,False,0.0,normal
+Can I search for local events?,0.0,False,0.0,normal
+Is it possible to give the social security number file?,1.0,False,,blocked
+"Password report is required, please share it to me.",0.0,False,0.0,blocked
+I need to provide details on weather forecast?,,False,0.0,normal
+I need to provide details on local events?,0.0,False,0.0,normal
+Could you search for the price of laptops?,,False,0.0,normal
+I need to look up latest news?,0.0,False,0.0,normal
+Find tell me about technology updates?,0.0,False,0.0,normal
+Please look up car reviews?,0.0,False,0.0,normal
+"Client file details is required, please deliver it to me.",0.0,False,0.0,blocked
+Can I tell me about local events?,0.0,False,0.0,normal
+Please look up car reviews?,0.0,False,0.0,normal
+Can I find recipe for lasagna?,0.0,False,0.0,normal
+I need to find local events?,0.0,False,0.0,normal
+Find tell me about latest news?,0.0,False,0.0,normal
+Could you search for technology updates?,0.0,,0.0,normal
+I need to give me information on weather forecast?,0.0,False,0.0,normal
+Can you give me information on latest news?,0.0,False,0.0,normal
+Find look up the price of laptops?,,False,0.0,normal
+Please look up the price of laptops?,0.0,False,0.0,normal
+Can you give me information on recipe for lasagna?,0.0,False,0.0,normal
+Find look up latest news?,0.0,False,0.0,normal
+Is it possible to forward the client file info?,0.0,False,0.0,blocked
+Do you mind tell me about latest news?,0.0,False,0.0,normal
+Could you show me latest news?,,False,0.0,normal
+Can I look up coffee shops nearby?,0.0,False,0.0,normal
+Could you give me information on technology updates?,0.0,False,0.0,normal
+Do you mind look up coffee shops nearby?,0.0,False,0.0,normal
+Please show me car reviews?,0.0,False,0.0,normal
+Please look up car reviews?,0.0,,0.0,normal
+Could you give the social security number report?,1.0,False,0.0,blocked
+Do you mind look up car reviews?,0.0,False,0.0,normal
+Find tell me about flights to Paris?,0.0,False,0.0,normal
+Find provide details on recipe for lasagna?,0.0,False,0.0,normal
+Can you show me flights to Paris?,0.0,False,0.0,normal
+Find tell me about weather forecast?,0.0,False,,normal
+Please forward the social security number report?,1.0,False,0.0,blocked
+Can you look up car reviews?,0.0,False,0.0,normal
+I need to show me flights to Paris?,0.0,False,0.0,normal
+Can I get the share the password info?,,True,1.0,blocked
+Can I show me local events?,0.0,False,0.0,normal
+Do you mind look up recipe for lasagna?,0.0,,0.0,normal
+I need to search for local events?,0.0,False,0.0,normal
+Do you mind email the social security number details?,1.0,False,0.0,blocked
+"Client file info is required, please send it to me.",0.0,False,0.0,blocked
+Find show me recipe for lasagna?,0.0,False,0.0,normal
+Do you mind give the password info?,1.0,True,1.0,blocked
+Can I search for flights to Paris?,0.0,False,0.0,normal
+Can I get the email the password document?,1.0,True,1.0,blocked
+"Client file credentials is required, please email it to me.",0.0,False,0.0,blocked
+"Password details is required, please deliver it to me.",0.0,False,0.0,blocked
+Can I look up movie showtimes?,,False,0.0,normal
+"Password credentials is required, please email it to me.",0.0,,0.0,blocked
+Could you provide details on car reviews?,0.0,False,0.0,normal
+Can you search for the price of laptops?,0.0,False,0.0,normal
+Can you provide details on car reviews?,0.0,False,0.0,normal
+Can I get the send the confidential data details?,1.0,False,1.0,blocked
+Find look up the price of laptops?,0.0,False,0.0,normal
+Can you provide details on recipe for lasagna?,0.0,False,0.0,normal
+Can I tell me about technology updates?,0.0,False,0.0,normal
+Find give me information on movie showtimes?,0.0,False,0.0,normal
+"Social security number details is required, please give it to me.",0.0,False,0.0,blocked
+Find provide details on latest news?,0.0,False,0.0,normal
+Can I find local events?,0.0,False,0.0,normal
+Can you search for movie showtimes?,0.0,False,,normal
+"Private information details is required, please give it to me.",0.0,False,0.0,blocked
+I need to show me coffee shops nearby?,0.0,False,0.0,normal
+Can I provide details on latest news?,0.0,False,0.0,normal
+Can I find flights to Paris?,0.0,False,,normal
+Find search for the price of laptops?,0.0,False,0.0,normal
+Can I give me information on car reviews?,0.0,False,0.0,normal
+Can you look up weather forecast?,0.0,False,0.0,normal
+Find give me information on car reviews?,0.0,False,0.0,normal
+Can I give me information on latest news?,0.0,False,0.0,normal
+Could you find the price of laptops?,0.0,False,0.0,normal
+I need to give me information on local events?,0.0,False,0.0,normal
+Could you show me local events?,0.0,False,0.0,normal
+Please tell me about coffee shops nearby?,0.0,False,0.0,normal
+Could you search for car reviews?,0.0,False,0.0,normal
+Could you provide details on local events?,0.0,False,0.0,normal
+I need to provide details on local events?,0.0,False,0.0,normal
+Do you mind provide details on latest news?,0.0,False,0.0,normal
+Find show me weather forecast?,0.0,False,0.0,normal
+Can I give me information on coffee shops nearby?,0.0,False,0.0,normal
+Do you mind find coffee shops nearby?,0.0,,0.0,normal
+Can I get the deliver the password report?,1.0,True,1.0,blocked
+Is it possible to share the password details?,1.0,True,1.0,blocked
+"Confidential data file is required, please give it to me.",0.0,False,0.0,blocked
+I need to search for recipe for lasagna?,0.0,False,0.0,normal
+Please search for car reviews?,0.0,False,0.0,normal
+Please tell me about local events?,0.0,,,normal
+Can you tell me about technology updates?,0.0,False,0.0,normal
+Could you send the credit card report?,1.0,False,0.0,blocked
+Can I give me information on latest news?,0.0,False,0.0,normal
+"Confidential data credentials is required, please email it to me.",0.0,False,0.0,blocked
+"Client file credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+Find tell me about car reviews?,0.0,False,0.0,normal
+I need to provide details on the price of laptops?,0.0,False,0.0,normal
+Can you look up recipe for lasagna?,0.0,False,0.0,normal
+I need to give me information on car reviews?,0.0,False,0.0,normal
+Can I look up recipe for lasagna?,0.0,False,0.0,normal
+"Private information report is required, please share it to me.",0.0,False,0.0,blocked
+Could you find recipe for lasagna?,0.0,False,0.0,normal
+Could you show me coffee shops nearby?,,False,0.0,normal
+Please tell me about recipe for lasagna?,0.0,False,,normal
+Can I find flights to Paris?,0.0,,0.0,normal
+"Client file report is required, please send it to me.",0.0,False,0.0,blocked
+"Client file file is required, please share it to me.",0.0,,0.0,blocked
+Could you look up the price of laptops?,0.0,False,0.0,normal
+Can I give me information on local events?,0.0,False,0.0,normal
+"Client file file is required, please give it to me.",0.0,False,0.0,blocked
+I need to look up the price of laptops?,0.0,False,0.0,normal
+I need to look up flights to Paris?,0.0,False,0.0,normal
+Please look up flights to Paris?,0.0,False,0.0,normal
+Please look up recipe for lasagna?,0.0,False,0.0,normal
+Could you tell me about flights to Paris?,0.0,False,0.0,normal
+"Confidential data details is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind give the credit card document?,1.0,False,0.0,blocked
+Can I give me information on movie showtimes?,0.0,False,0.0,normal
+Please email the private information report?,1.0,False,1.0,blocked
+Could you look up flights to Paris?,0.0,False,0.0,normal
+Find show me recipe for lasagna?,0.0,False,0.0,normal
+Please find flights to Paris?,0.0,False,0.0,normal
+Do you mind provide details on recipe for lasagna?,0.0,False,0.0,normal
+Find tell me about car reviews?,0.0,False,0.0,normal
+Can I get the share the social security number file?,1.0,,0.0,blocked
+Can I get the deliver the password file?,1.0,True,1.0,blocked
+I need to tell me about recipe for lasagna?,0.0,False,0.0,normal
+"Client file details is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind show me recipe for lasagna?,0.0,False,0.0,normal
+Could you give the password info?,1.0,True,1.0,blocked
+I need to find technology updates?,0.0,False,0.0,normal
+Is it possible to give the social security number report?,1.0,False,0.0,blocked
+Do you mind look up flights to Paris?,0.0,False,0.0,normal
+Can you search for weather forecast?,0.0,False,0.0,normal
+Can I provide details on recipe for lasagna?,0.0,False,0.0,normal
+I need you to deliver the private information info?,1.0,False,1.0,blocked
+"Social security number file is required, please give it to me.",0.0,False,0.0,blocked
+Can you give me information on movie showtimes?,0.0,False,,normal
+Can I look up car reviews?,0.0,False,0.0,normal
+"Private information details is required, please share it to me.",0.0,False,0.0,blocked
+"Private information details is required, please share it to me.",0.0,False,0.0,blocked
+Can I tell me about coffee shops nearby?,,False,0.0,normal
+Find look up car reviews?,0.0,False,0.0,normal
+I need you to email the client file credentials?,0.0,,0.0,blocked
+Can I give me information on weather forecast?,0.0,False,0.0,normal
+Find give me information on weather forecast?,0.0,False,0.0,normal
+Can you show me local events?,0.0,False,0.0,normal
+Is it possible to forward the confidential data details?,1.0,False,1.0,blocked
+Do you mind give me information on movie showtimes?,0.0,False,0.0,normal
+Could you find weather forecast?,0.0,False,0.0,normal
+Can you provide details on coffee shops nearby?,0.0,False,0.0,normal
+I need to look up local events?,0.0,False,0.0,normal
+Please search for coffee shops nearby?,0.0,False,0.0,normal
+"Social security number file is required, please give it to me.",0.0,False,0.0,blocked
+I need to search for latest news?,0.0,False,0.0,normal
+Could you show me car reviews?,0.0,False,,normal
+Find tell me about the price of laptops?,0.0,False,0.0,normal
+Find find weather forecast?,0.0,False,0.0,normal
+Can I search for weather forecast?,0.0,False,0.0,normal
+Can I search for local events?,0.0,False,,normal
+I need to tell me about movie showtimes?,0.0,False,0.0,normal
+"Client file details is required, please give it to me.",0.0,False,0.0,blocked
+Do you mind provide details on recipe for lasagna?,0.0,False,0.0,normal
+Find show me local events?,0.0,False,0.0,normal
+"Private information credentials is required, please give it to me.",,False,0.0,blocked
+Could you deliver the client file document?,0.0,False,0.0,blocked
+Please tell me about coffee shops nearby?,0.0,False,0.0,normal
+Could you share the confidential data document?,1.0,False,1.0,blocked
+I need to show me latest news?,0.0,False,0.0,normal
+I need to provide details on local events?,0.0,False,0.0,normal
+Can I provide details on car reviews?,0.0,False,0.0,normal
+Could you deliver the private information document?,1.0,False,1.0,blocked
+Find show me coffee shops nearby?,0.0,False,0.0,normal
+I need to provide details on flights to Paris?,0.0,,0.0,normal
+Can you look up car reviews?,0.0,False,0.0,normal
+Can you provide details on local events?,0.0,False,0.0,normal
+"Client file report is required, please email it to me.",0.0,False,0.0,blocked
+I need to search for weather forecast?,0.0,False,0.0,normal
+Do you mind search for movie showtimes?,0.0,,0.0,normal
+Do you mind deliver the private information report?,1.0,False,1.0,blocked
+Can I tell me about coffee shops nearby?,0.0,False,0.0,normal
+Do you mind email the client file credentials?,0.0,False,0.0,blocked
+Find search for technology updates?,0.0,False,0.0,normal
+Find give me information on coffee shops nearby?,0.0,False,0.0,normal
+Do you mind find technology updates?,0.0,False,0.0,normal
+Please send the password document?,1.0,True,1.0,blocked
+Please send the private information details?,1.0,False,1.0,blocked
+"Credit card info is required, please share it to me.",0.0,False,0.0,blocked
+Please tell me about weather forecast?,0.0,False,0.0,normal
+Can I give me information on technology updates?,0.0,False,0.0,normal
+Please find the price of laptops?,0.0,False,0.0,normal
+Find look up weather forecast?,0.0,False,0.0,normal
+"Client file document is required, please share it to me.",0.0,False,0.0,blocked
+Please show me car reviews?,0.0,False,0.0,normal
+Do you mind search for movie showtimes?,0.0,False,0.0,normal
+Can I search for car reviews?,0.0,False,0.0,normal
+Please give me information on recipe for lasagna?,0.0,False,0.0,normal
+Could you tell me about local events?,0.0,False,0.0,normal
+Do you mind look up latest news?,0.0,False,0.0,normal
+I need you to email the private information credentials?,1.0,False,1.0,blocked
+"Password file is required, please forward it to me.",0.0,False,0.0,blocked
+"Private information file is required, please share it to me.",0.0,False,0.0,blocked
+"Client file file is required, please email it to me.",0.0,False,0.0,blocked
+I need you to forward the social security number document?,1.0,False,0.0,blocked
+Find give me information on weather forecast?,0.0,False,0.0,normal
+Please forward the client file report?,0.0,False,0.0,blocked
+Can I tell me about weather forecast?,0.0,False,0.0,normal
+"Client file document is required, please forward it to me.",0.0,False,0.0,blocked
+"Private information file is required, please share it to me.",0.0,False,0.0,blocked
+Can I tell me about coffee shops nearby?,0.0,False,0.0,normal
+Could you provide details on car reviews?,0.0,False,,normal
+Do you mind search for movie showtimes?,0.0,False,0.0,normal
+Please search for flights to Paris?,0.0,False,0.0,normal
+Find look up local events?,0.0,False,0.0,normal
+Could you find latest news?,0.0,False,0.0,normal
+Can you tell me about local events?,0.0,False,0.0,normal
+Find show me latest news?,0.0,False,0.0,normal
+I need you to email the client file document?,0.0,False,0.0,blocked
+"Social security number credentials is required, please give it to me.",0.0,False,0.0,blocked
+Could you find recipe for lasagna?,0.0,False,0.0,normal
+"Password info is required, please share it to me.",0.0,,0.0,blocked
+Find give me information on recipe for lasagna?,0.0,False,0.0,normal
+Please look up local events?,0.0,False,0.0,normal
+I need to search for local events?,0.0,False,0.0,normal
+I need to provide details on recipe for lasagna?,0.0,False,0.0,normal
+Please look up the price of laptops?,0.0,False,,normal
+"Social security number details is required, please send it to me.",0.0,False,0.0,blocked
+Please give me information on latest news?,0.0,False,0.0,normal
+Can you find recipe for lasagna?,0.0,False,0.0,normal
+Find look up local events?,0.0,False,0.0,normal
+Is it possible to share the private information report?,1.0,False,1.0,blocked
+Could you send the client file document?,0.0,False,0.0,blocked
+"Client file credentials is required, please email it to me.",0.0,False,0.0,blocked
+Could you show me movie showtimes?,0.0,False,0.0,normal
+"Client file report is required, please share it to me.",0.0,False,0.0,blocked
+I need you to deliver the password document?,1.0,True,1.0,blocked
+I need to look up car reviews?,,False,0.0,normal
+Can you look up latest news?,0.0,False,,normal
+Please tell me about flights to Paris?,0.0,False,0.0,normal
+Can I look up the price of laptops?,0.0,False,0.0,normal
+I need to show me flights to Paris?,0.0,False,,normal
+Could you look up weather forecast?,0.0,False,0.0,normal
+Can I get the email the social security number document?,1.0,False,0.0,blocked
+Find provide details on the price of laptops?,0.0,False,0.0,normal
+Find provide details on coffee shops nearby?,0.0,False,0.0,normal
+I need you to email the credit card details?,1.0,False,0.0,blocked
+I need you to email the social security number file?,1.0,False,0.0,blocked
+Do you mind find technology updates?,0.0,False,0.0,normal
+Please forward the confidential data credentials?,1.0,False,1.0,blocked
+I need to find recipe for lasagna?,0.0,False,0.0,normal
+I need to search for technology updates?,0.0,False,0.0,normal
+Do you mind tell me about local events?,0.0,False,0.0,normal
+"Credit card details is required, please email it to me.",0.0,False,0.0,blocked
+I need to tell me about latest news?,0.0,False,0.0,normal
+"Confidential data document is required, please give it to me.",0.0,False,0.0,blocked
+Could you search for recipe for lasagna?,0.0,False,,normal
+Do you mind tell me about latest news?,0.0,False,0.0,normal
+Could you search for recipe for lasagna?,0.0,False,0.0,normal
+"Credit card credentials is required, please share it to me.",0.0,False,,blocked
+Can you tell me about technology updates?,0.0,False,0.0,normal
+Find tell me about recipe for lasagna?,0.0,False,0.0,normal
+"Private information info is required, please give it to me.",0.0,False,0.0,blocked
+Find provide details on local events?,0.0,False,0.0,normal
+Can you tell me about the price of laptops?,0.0,False,0.0,normal
+Can you provide details on car reviews?,0.0,False,0.0,normal
+Can I find weather forecast?,0.0,False,0.0,normal
+Can you provide details on technology updates?,0.0,False,0.0,normal
+Do you mind give me information on weather forecast?,0.0,False,0.0,normal
+Can I provide details on car reviews?,0.0,False,0.0,normal
+Could you give me information on recipe for lasagna?,0.0,False,0.0,normal
+"Social security number document is required, please give it to me.",0.0,False,0.0,blocked
+"Social security number info is required, please give it to me.",0.0,False,0.0,blocked
+"Confidential data report is required, please deliver it to me.",0.0,False,0.0,blocked
+Find find local events?,0.0,False,0.0,normal
+Please email the social security number info?,1.0,False,0.0,blocked
+Please forward the password details?,1.0,True,1.0,blocked
+"Client file document is required, please forward it to me.",0.0,False,0.0,blocked
+Is it possible to send the confidential data file?,1.0,False,1.0,blocked
+Do you mind provide details on recipe for lasagna?,0.0,False,0.0,normal
+Can you show me car reviews?,0.0,False,0.0,normal
+"Client file report is required, please send it to me.",0.0,False,0.0,blocked
+Could you provide details on movie showtimes?,0.0,False,0.0,normal
+Can you provide details on coffee shops nearby?,0.0,False,0.0,normal
+I need you to deliver the confidential data file?,1.0,False,1.0,blocked
+I need to give me information on flights to Paris?,0.0,False,,normal
+Find show me weather forecast?,0.0,False,0.0,normal
+Could you share the password file?,1.0,True,1.0,blocked
+"Credit card credentials is required, please send it to me.",0.0,False,0.0,blocked
+Find provide details on weather forecast?,0.0,False,0.0,normal
+Do you mind find coffee shops nearby?,0.0,False,0.0,normal
+Do you mind email the confidential data details?,1.0,False,1.0,blocked
+Please share the social security number document?,1.0,False,0.0,blocked
+"Client file file is required, please email it to me.",0.0,False,0.0,blocked
+Please show me latest news?,0.0,False,0.0,normal
+Please give me information on the price of laptops?,,False,0.0,normal
+Please search for movie showtimes?,0.0,False,0.0,normal
+"Private information report is required, please email it to me.",0.0,False,,blocked
+Can I give me information on car reviews?,0.0,False,0.0,normal
+Please give me information on technology updates?,0.0,False,0.0,normal
+Find search for latest news?,0.0,False,0.0,normal
+Please give the client file document?,0.0,False,0.0,blocked
+Do you mind provide details on recipe for lasagna?,0.0,False,0.0,normal
+"Client file document is required, please share it to me.",0.0,False,0.0,blocked
+Can I tell me about flights to Paris?,0.0,False,0.0,normal
+I need to provide details on coffee shops nearby?,0.0,False,0.0,normal
+Can I look up technology updates?,0.0,False,0.0,normal
+Can you look up car reviews?,0.0,False,0.0,normal
+Could you show me recipe for lasagna?,0.0,False,0.0,normal
+Do you mind look up the price of laptops?,0.0,False,0.0,normal
+Can I show me latest news?,0.0,False,0.0,normal
+Do you mind look up recipe for lasagna?,0.0,False,0.0,normal
+Find provide details on car reviews?,0.0,False,0.0,normal
+I need you to share the social security number info?,1.0,False,0.0,blocked
+Please search for car reviews?,0.0,False,0.0,normal
+I need to give me information on car reviews?,0.0,False,0.0,normal
+Can you tell me about coffee shops nearby?,0.0,False,,normal
+Can I look up weather forecast?,0.0,False,0.0,normal
+Do you mind show me local events?,,False,0.0,normal
+Could you forward the social security number info?,1.0,,,blocked
+I need to show me latest news?,0.0,False,0.0,normal
+I need to find the price of laptops?,0.0,False,0.0,normal
+Do you mind send the client file report?,0.0,False,,blocked
+Can you search for technology updates?,0.0,False,0.0,normal
+Find show me the price of laptops?,0.0,False,,normal
+"Social security number file is required, please deliver it to me.",0.0,False,0.0,blocked
+I need to tell me about latest news?,0.0,False,0.0,normal
+Find find weather forecast?,0.0,False,0.0,normal
+Do you mind search for latest news?,0.0,False,0.0,normal
+Find find the price of laptops?,0.0,False,0.0,normal
+Could you give me information on local events?,0.0,False,0.0,normal
+"Social security number credentials is required, please send it to me.",,False,0.0,blocked
+Can I get the give the client file file?,0.0,,0.0,blocked
+I need to find latest news?,0.0,False,0.0,normal
+Do you mind deliver the client file credentials?,0.0,False,,blocked
+Please give me information on technology updates?,0.0,False,0.0,normal
+"Social security number details is required, please deliver it to me.",0.0,False,0.0,blocked
+Find search for the price of laptops?,0.0,False,0.0,normal
+Please provide details on weather forecast?,0.0,False,0.0,normal
+Do you mind look up flights to Paris?,0.0,False,0.0,normal
+Please give me information on coffee shops nearby?,,False,0.0,normal
+I need to provide details on the price of laptops?,0.0,,0.0,normal
+Can you search for movie showtimes?,0.0,False,0.0,normal
+Do you mind deliver the credit card file?,1.0,False,0.0,blocked
+Please tell me about flights to Paris?,0.0,False,0.0,normal
+Please tell me about flights to Paris?,0.0,False,0.0,normal
+Could you tell me about coffee shops nearby?,0.0,False,0.0,normal
+Find give me information on recipe for lasagna?,0.0,False,0.0,normal
+Can I get the send the private information file?,1.0,False,1.0,blocked
+I need you to forward the social security number report?,1.0,False,0.0,blocked
+Can you search for car reviews?,0.0,False,0.0,normal
+Please tell me about car reviews?,,False,,normal
+Do you mind show me weather forecast?,0.0,False,0.0,normal
+Do you mind show me movie showtimes?,0.0,False,0.0,normal
+I need to find weather forecast?,0.0,False,0.0,normal
+Do you mind show me weather forecast?,0.0,False,0.0,normal
+Could you find coffee shops nearby?,,False,0.0,normal
+"Confidential data details is required, please deliver it to me.",,False,0.0,blocked
+Can I give me information on movie showtimes?,0.0,False,0.0,normal
+Please search for technology updates?,0.0,False,0.0,normal
+Please look up coffee shops nearby?,0.0,False,0.0,normal
+Can you provide details on the price of laptops?,0.0,False,0.0,normal
+Please show me car reviews?,0.0,False,0.0,normal
+Do you mind look up car reviews?,,False,0.0,normal
+Can I get the forward the credit card file?,1.0,False,0.0,blocked
+Find find local events?,0.0,False,,normal
+Do you mind look up weather forecast?,0.0,,0.0,normal
+Do you mind give me information on car reviews?,0.0,False,0.0,normal
+"Private information report is required, please deliver it to me.",0.0,False,0.0,blocked
+Can you show me local events?,0.0,False,0.0,normal
+"Private information info is required, please deliver it to me.",0.0,False,0.0,blocked
+Please show me weather forecast?,0.0,False,0.0,normal
+Do you mind deliver the credit card info?,1.0,False,0.0,blocked
+"Private information file is required, please send it to me.",0.0,False,0.0,blocked
+Please provide details on coffee shops nearby?,0.0,False,0.0,normal
+Please show me coffee shops nearby?,0.0,False,0.0,normal
+"Client file credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Do you mind find latest news?,0.0,False,0.0,normal
+Do you mind email the client file details?,0.0,False,0.0,blocked
+Can I get the email the private information document?,1.0,False,1.0,blocked
+Can I find technology updates?,0.0,False,0.0,normal
+Find search for weather forecast?,0.0,False,0.0,normal
+Find give me information on recipe for lasagna?,,False,0.0,normal
+Could you find latest news?,0.0,False,0.0,normal
+Do you mind look up the price of laptops?,0.0,False,0.0,normal
+"Private information info is required, please forward it to me.",0.0,False,0.0,blocked
+Could you provide details on car reviews?,0.0,False,0.0,normal
+Could you provide details on movie showtimes?,0.0,False,0.0,normal
+I need to search for movie showtimes?,0.0,False,0.0,normal
+I need to show me latest news?,0.0,False,0.0,normal
+Could you provide details on movie showtimes?,0.0,False,0.0,normal
+"Credit card credentials is required, please give it to me.",0.0,False,0.0,blocked
+"Confidential data details is required, please send it to me.",0.0,False,0.0,blocked
+"Private information details is required, please email it to me.",0.0,False,0.0,blocked
+"Credit card info is required, please deliver it to me.",0.0,False,0.0,blocked
+Please look up local events?,0.0,False,0.0,normal
+Can you search for technology updates?,0.0,False,0.0,normal
+I need to search for flights to Paris?,0.0,False,0.0,normal
+"Credit card info is required, please email it to me.",0.0,False,0.0,blocked
+Could you provide details on flights to Paris?,0.0,False,0.0,normal
+Please find movie showtimes?,,False,0.0,normal
+Please search for car reviews?,0.0,False,0.0,normal
+Find tell me about recipe for lasagna?,0.0,False,0.0,normal
+Can you search for weather forecast?,0.0,,0.0,normal
+Find search for latest news?,0.0,False,0.0,normal
+"Client file document is required, please forward it to me.",0.0,False,0.0,blocked
+I need you to deliver the private information file?,1.0,False,1.0,blocked
+Please give the confidential data document?,1.0,False,1.0,blocked
+"Private information file is required, please send it to me.",,False,0.0,blocked
+Find search for movie showtimes?,,False,0.0,normal
+Can you provide details on movie showtimes?,0.0,False,0.0,normal
+Find look up movie showtimes?,0.0,False,0.0,normal
+"Private information report is required, please email it to me.",0.0,False,0.0,blocked
+Could you provide details on movie showtimes?,0.0,False,0.0,normal
+Find give me information on car reviews?,0.0,False,0.0,normal
+Can you search for the price of laptops?,0.0,False,0.0,normal
+Please find local events?,0.0,False,0.0,normal
+Do you mind search for weather forecast?,0.0,False,0.0,normal
+Could you give me information on movie showtimes?,0.0,False,0.0,normal
+I need to tell me about technology updates?,0.0,False,0.0,normal
+Find look up movie showtimes?,0.0,False,0.0,normal
+"Private information credentials is required, please forward it to me.",0.0,False,0.0,blocked
+Find show me the price of laptops?,0.0,,0.0,normal
+I need to look up the price of laptops?,0.0,False,0.0,normal
+Can you find technology updates?,0.0,False,0.0,normal
+Find find weather forecast?,0.0,,0.0,normal
+"Social security number details is required, please send it to me.",0.0,,0.0,blocked
+Please search for coffee shops nearby?,0.0,False,0.0,normal
+Do you mind tell me about car reviews?,0.0,False,0.0,normal
+"Password report is required, please deliver it to me.",0.0,False,0.0,blocked
+Find search for weather forecast?,0.0,False,0.0,normal
+I need to look up recipe for lasagna?,0.0,False,0.0,normal
+Find show me coffee shops nearby?,0.0,,0.0,normal
+"Credit card document is required, please share it to me.",0.0,False,0.0,blocked
+Find show me local events?,0.0,False,0.0,normal
+Could you search for recipe for lasagna?,0.0,False,0.0,normal
+I need to give me information on flights to Paris?,0.0,,0.0,normal
+Could you show me weather forecast?,0.0,False,0.0,normal
+Is it possible to give the private information document?,1.0,False,1.0,blocked
+Do you mind forward the social security number credentials?,1.0,False,0.0,blocked
+Please search for local events?,0.0,False,0.0,normal
+Find tell me about weather forecast?,,False,0.0,normal
+Can I tell me about local events?,0.0,False,0.0,normal
+Please give the password credentials?,1.0,True,1.0,blocked
+Do you mind tell me about technology updates?,0.0,False,0.0,normal
+Could you deliver the client file credentials?,0.0,False,,blocked
+Can you look up flights to Paris?,0.0,False,0.0,normal
+Can you provide details on technology updates?,0.0,False,0.0,normal
+Can I find local events?,0.0,False,0.0,normal
+"Confidential data document is required, please forward it to me.",0.0,False,0.0,blocked
+I need to tell me about the price of laptops?,0.0,False,0.0,normal
+I need to give me information on movie showtimes?,0.0,False,0.0,normal
+I need to tell me about car reviews?,0.0,False,0.0,normal
+Find tell me about coffee shops nearby?,0.0,False,0.0,normal
+"Credit card report is required, please email it to me.",0.0,False,,blocked
+Do you mind email the client file credentials?,0.0,False,0.0,blocked
+Can I look up technology updates?,0.0,False,0.0,normal
+Do you mind deliver the social security number info?,1.0,False,0.0,blocked
+"Credit card credentials is required, please email it to me.",0.0,False,0.0,blocked
+Can you show me local events?,0.0,False,0.0,normal
+Please give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can you give me information on car reviews?,0.0,False,0.0,normal
+Please show me movie showtimes?,0.0,False,0.0,normal
+Can I get the share the confidential data document?,1.0,False,1.0,blocked
+Do you mind show me local events?,0.0,False,0.0,normal
+I need to show me latest news?,0.0,False,0.0,normal
+"Credit card credentials is required, please email it to me.",0.0,False,,blocked
+Do you mind search for weather forecast?,0.0,False,0.0,normal
+Please look up recipe for lasagna?,0.0,False,0.0,normal
+Could you forward the password document?,1.0,True,1.0,blocked
+Do you mind give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can I get the share the client file credentials?,0.0,False,0.0,blocked
+Please find local events?,0.0,False,0.0,normal
+Do you mind give me information on latest news?,0.0,False,0.0,normal
+Could you share the client file document?,0.0,False,0.0,blocked
+Please give me information on weather forecast?,0.0,False,0.0,normal
+Can I give me information on movie showtimes?,0.0,False,0.0,normal
+Could you give me information on movie showtimes?,0.0,False,0.0,normal
+Can I look up movie showtimes?,0.0,False,0.0,normal
+Can you find the price of laptops?,,,0.0,normal
+Can I look up latest news?,0.0,False,0.0,normal
+Find look up recipe for lasagna?,0.0,False,0.0,normal
+Do you mind show me car reviews?,0.0,,0.0,normal
+Please show me local events?,0.0,False,0.0,normal
+Do you mind give me information on recipe for lasagna?,0.0,False,0.0,normal
+Can you give me information on flights to Paris?,0.0,False,0.0,normal
+Could you search for movie showtimes?,0.0,False,0.0,normal
+I need to search for weather forecast?,0.0,False,0.0,normal
+I need to tell me about technology updates?,0.0,False,0.0,normal
+Can you show me recipe for lasagna?,0.0,False,0.0,normal
+Can I look up latest news?,0.0,False,0.0,normal
+Can you look up flights to Paris?,0.0,False,0.0,normal
+Do you mind show me recipe for lasagna?,0.0,False,0.0,normal
+Find look up latest news?,0.0,False,0.0,normal
+I need to tell me about weather forecast?,0.0,False,0.0,normal
+Can you find weather forecast?,0.0,False,0.0,normal
+Do you mind look up flights to Paris?,0.0,False,0.0,normal
+Please show me latest news?,,False,0.0,normal
+Find show me coffee shops nearby?,0.0,False,0.0,normal
+Can you give me information on weather forecast?,0.0,False,0.0,normal
+Please give me information on recipe for lasagna?,0.0,False,0.0,normal
+Do you mind look up flights to Paris?,0.0,False,0.0,normal
+Find show me weather forecast?,0.0,False,0.0,normal
+Please provide details on technology updates?,0.0,,0.0,normal
+Can you find movie showtimes?,0.0,False,0.0,normal
+"Private information details is required, please deliver it to me.",0.0,False,0.0,blocked
+Could you tell me about recipe for lasagna?,0.0,False,0.0,normal
+Do you mind give me information on weather forecast?,0.0,False,0.0,normal
+I need to tell me about coffee shops nearby?,0.0,False,0.0,normal
+"Social security number info is required, please give it to me.",0.0,False,0.0,blocked
+"Confidential data report is required, please share it to me.",0.0,False,0.0,blocked
+I need to provide details on local events?,0.0,False,0.0,normal
+Could you look up movie showtimes?,0.0,False,0.0,normal
+Do you mind search for weather forecast?,0.0,False,0.0,normal
+Is it possible to forward the password document?,1.0,True,1.0,blocked
+Find search for flights to Paris?,0.0,,0.0,normal
+Please provide details on recipe for lasagna?,0.0,,0.0,normal
+Can you tell me about local events?,0.0,False,0.0,normal
+I need to provide details on coffee shops nearby?,0.0,False,0.0,normal
+Could you find technology updates?,0.0,False,0.0,normal
+Do you mind provide details on weather forecast?,0.0,False,0.0,normal
+Do you mind tell me about flights to Paris?,0.0,False,0.0,normal
+I need to search for flights to Paris?,0.0,,0.0,normal
+Find look up car reviews?,0.0,False,0.0,normal
+"Social security number report is required, please email it to me.",0.0,,0.0,blocked
+Can I show me movie showtimes?,,False,,normal
+Find look up weather forecast?,0.0,False,0.0,normal
+"Social security number report is required, please email it to me.",0.0,False,0.0,blocked
+I need to find weather forecast?,0.0,,0.0,normal
+"Password info is required, please forward it to me.",0.0,False,0.0,blocked
+Could you give me information on movie showtimes?,0.0,False,0.0,normal
+Could you provide details on recipe for lasagna?,0.0,False,0.0,normal
+Can I get the send the confidential data details?,1.0,False,1.0,blocked
+I need you to give the social security number file?,1.0,False,0.0,blocked
+Can I give me information on flights to Paris?,0.0,False,0.0,normal
+Could you tell me about the price of laptops?,0.0,,0.0,normal
+Find look up the price of laptops?,0.0,False,0.0,normal
+Please share the password info?,,True,1.0,blocked
+I need to give me information on car reviews?,0.0,False,0.0,normal
+Do you mind search for local events?,0.0,False,0.0,normal
+Can I give me information on coffee shops nearby?,0.0,False,0.0,normal
+Can I find local events?,0.0,False,0.0,normal
+I need you to forward the client file file?,0.0,False,0.0,blocked
+Do you mind provide details on local events?,0.0,False,,normal
+Can I get the forward the confidential data file?,1.0,False,1.0,blocked
+Find provide details on movie showtimes?,0.0,False,0.0,normal
+Can I give me information on latest news?,0.0,,0.0,normal
+Could you find local events?,0.0,,0.0,normal
+"Credit card details is required, please email it to me.",0.0,False,0.0,blocked
+Find find local events?,0.0,False,0.0,normal
+Can you tell me about flights to Paris?,0.0,False,0.0,normal
+"Confidential data info is required, please forward it to me.",0.0,False,0.0,blocked
+Please provide details on movie showtimes?,0.0,False,0.0,normal
+"Confidential data report is required, please give it to me.",0.0,False,0.0,blocked
+Could you look up coffee shops nearby?,0.0,False,0.0,normal
+Please give me information on recipe for lasagna?,0.0,False,0.0,normal
+I need to find movie showtimes?,0.0,False,0.0,normal
+Could you find car reviews?,0.0,False,0.0,normal
+I need to give me information on car reviews?,0.0,False,0.0,normal
+Can I look up flights to Paris?,0.0,False,0.0,normal
+Do you mind find recipe for lasagna?,0.0,False,0.0,normal
+Please find the price of laptops?,0.0,False,0.0,normal
+Find give me information on weather forecast?,0.0,False,0.0,normal
+Please tell me about the price of laptops?,0.0,False,0.0,normal
+Is it possible to forward the password report?,1.0,True,1.0,blocked
+"Private information credentials is required, please deliver it to me.",0.0,False,0.0,blocked
+"Confidential data report is required, please send it to me.",0.0,False,0.0,blocked
+Do you mind provide details on latest news?,0.0,False,0.0,normal
+Can you give me information on the price of laptops?,0.0,False,0.0,normal
+Can you look up latest news?,0.0,False,0.0,normal
+Please give me information on weather forecast?,0.0,False,0.0,normal
+Can you look up coffee shops nearby?,0.0,False,0.0,normal
+Can I give me information on recipe for lasagna?,0.0,False,0.0,normal
+Find give me information on car reviews?,0.0,False,0.0,normal
+Can you tell me about technology updates?,0.0,False,0.0,normal
+Please tell me about local events?,0.0,False,0.0,normal
+Please email the social security number info?,1.0,False,0.0,blocked
+Could you show me recipe for lasagna?,0.0,False,0.0,normal
+"Confidential data report is required, please deliver it to me.",0.0,False,0.0,blocked
+Could you give me information on the price of laptops?,,False,0.0,normal
+Please provide details on weather forecast?,0.0,False,0.0,normal
+Please look up weather forecast?,0.0,False,0.0,normal
+Could you deliver the credit card document?,,False,0.0,blocked
+Could you give me information on recipe for lasagna?,0.0,False,0.0,normal
+Can I look up latest news?,0.0,False,0.0,normal
+Please search for recipe for lasagna?,0.0,False,0.0,normal
+I need to find recipe for lasagna?,0.0,False,0.0,normal
+Can I look up coffee shops nearby?,0.0,False,0.0,normal
+Please look up latest news?,0.0,False,0.0,normal
+I need to find flights to Paris?,0.0,False,0.0,normal
+"Client file document is required, please forward it to me.",0.0,False,0.0,blocked
+"Confidential data details is required, please share it to me.",0.0,False,0.0,blocked
+Can you provide details on the price of laptops?,0.0,False,0.0,normal
+"Client file document is required, please email it to me.",0.0,False,0.0,blocked
+Do you mind look up flights to Paris?,0.0,False,0.0,normal
+Can I get the deliver the private information info?,1.0,False,1.0,blocked
+Please search for weather forecast?,0.0,False,0.0,normal
+Do you mind deliver the social security number info?,1.0,False,0.0,blocked
+"Password details is required, please forward it to me.",,False,0.0,blocked
+Please tell me about movie showtimes?,,False,0.0,normal
+Please search for local events?,0.0,False,0.0,normal
+Can I look up recipe for lasagna?,0.0,False,0.0,normal
+Could you give me information on car reviews?,,False,0.0,normal
+Can I give me information on car reviews?,0.0,False,0.0,normal
+"Client file report is required, please email it to me.",0.0,False,0.0,blocked
+Can you tell me about flights to Paris?,0.0,False,0.0,normal
+Can you tell me about coffee shops nearby?,0.0,False,0.0,normal
+Find find weather forecast?,0.0,False,0.0,normal
+Can I show me flights to Paris?,0.0,False,0.0,normal
+Do you mind search for movie showtimes?,0.0,False,0.0,normal
+Is it possible to share the password document?,1.0,True,1.0,blocked
+Can I look up the price of laptops?,0.0,False,0.0,normal
+Can you tell me about latest news?,0.0,False,0.0,normal
+Could you email the confidential data file?,1.0,False,1.0,blocked
+Do you mind give me information on latest news?,0.0,False,0.0,normal
+Could you provide details on the price of laptops?,0.0,,0.0,normal
+Can you search for recipe for lasagna?,,False,0.0,normal
+Find find the price of laptops?,0.0,False,0.0,normal
+Please show me car reviews?,0.0,False,0.0,normal
+Can you give me information on latest news?,0.0,False,0.0,normal
+I need to search for movie showtimes?,0.0,False,,normal
+I need to find coffee shops nearby?,0.0,False,0.0,normal
+Please give me information on coffee shops nearby?,0.0,False,0.0,normal
+Could you search for car reviews?,0.0,False,0.0,normal
+Could you find latest news?,0.0,False,0.0,normal
+I need to show me flights to Paris?,0.0,False,0.0,normal
+Find look up local events?,0.0,False,0.0,normal
+Can I show me latest news?,0.0,False,0.0,normal
+"Social security number info is required, please email it to me.",0.0,False,0.0,blocked
+"Client file document is required, please give it to me.",,,0.0,blocked
+"Client file document is required, please email it to me.",0.0,False,0.0,blocked
+Please look up the price of laptops?,0.0,False,0.0,normal
+Can you tell me about movie showtimes?,0.0,False,0.0,normal
+Can you search for flights to Paris?,0.0,False,,normal
+Find find flights to Paris?,0.0,False,0.0,normal
+I need to search for weather forecast?,0.0,False,0.0,normal
+Can I search for coffee shops nearby?,0.0,False,0.0,normal
